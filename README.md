@@ -9,9 +9,9 @@ Descrição: Este repositório é o backup de todo o curso e de todas as anotaç
 
 - ....... conforme o andamento do curso, novas anotações serão adicionadas
 
-Ass: Roberto Junior
-Analista em Agricultura de Precisão - COCARI
-Pós Graduando em Ciência de Dados e Big Data - PUC Minas
-Engenheiro Agrícola - UFPR Campus Avançado em Jandaia do Sul
-Técnico em Administração - Colégio Estadual Vera Cruz
-Entusiasta e Curioso por Programação, Tecnologia, Desenvolvimento de Softwares, etc.
+### Ass: Roberto Junior
+- Analista em Agricultura de Precisão - COCARI
+- Pós Graduando em Ciência de Dados e Big Data - PUC Minas 
+- Engenheiro Agrícola - UFPR Campus Avançado em Jandaia do Sul 
+- Técnico em Administração - Colégio Estadual Vera Cruz 
+- Entusiasta e Curioso por Programação, Tecnologia, Desenvolvimento de Softwares, etc.
