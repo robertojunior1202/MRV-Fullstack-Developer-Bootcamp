@@ -1,8 +1,0 @@
-			GIT POR TRAZ DOS PANOS
------------------------------------------------------------------------------------------------------------------------------------------------
-	COMANDO                          		DESCRIÇÃO
------------------------------------------------------------------------------------------------------------------------------------------------
-- echo "Hello World" | openssl sha 1                 // ao passar o pipe e digitar esse codigo, eu faço a criptografia em 40 caracteres
-
-EXEMPLO:
-openssl sha1 "Passo o arquivo" 
