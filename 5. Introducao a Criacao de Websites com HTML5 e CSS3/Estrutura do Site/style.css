@@ -1,0 +1,9 @@
+#title, .subtitle, .post_title {   /* muda a cor dos elementos title, subtitle e post_title para azul*/
+    color:blue;
+
+}
+
+.post_title {                       /* muda a fonte do elemento post_title para o tamanho de 16px e para italico*/
+    font-size: 16px;
+    font-style: italic;
+}
