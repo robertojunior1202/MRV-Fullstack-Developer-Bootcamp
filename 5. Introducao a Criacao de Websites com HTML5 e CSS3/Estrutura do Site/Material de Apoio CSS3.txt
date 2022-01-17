@@ -16,9 +16,6 @@ clicar nesse elemento.
 
 O a:hover do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.
 
- 
-
-
 
 ID x Classe
 No exemplo anterior criamos uma regra que altera um elemento HTML diretamente, mas isso significa que todos os elementos <a> ficarão com aquela aparência, 
@@ -37,7 +34,6 @@ Classe: a classe é representada de forma parecida do ID, mas é precedida por u
 E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.
 
  
-
 Exercício
 Vamos adicionar algumas classes no nosso site e alterar alguns elementos, mas antes precisamos adicionar um arquivo CSS a nossa página.
 
@@ -53,6 +49,8 @@ respectivamente.
 No arquivo CSS vamos mudar a cor desses três títulos, e depois alterar o tamanho da fonte do título da postagem.
 
  
+
+
 
 Box-model
 Quando estamos criando o layout de um site o navegador representa cada elemento HTML  como uma caixa retangular, isso é o box-model. E com CSS nós alteramos a 
@@ -85,6 +83,10 @@ em laranja.
 E já que começamos a falar sobre bordas e cor de fundo, no próximo vídeo vamos nos aprofundar nessas propriedades.
 
  
+
+
+
+  
 
 Estilizando elementos
 Agora que entendemos o box-model podemos focar em deixar nosso site mais bonito, então vamos repassar pelas propriedades já citadas:

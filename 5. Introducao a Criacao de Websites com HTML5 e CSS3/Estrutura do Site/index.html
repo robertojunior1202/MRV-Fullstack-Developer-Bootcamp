@@ -7,7 +7,7 @@
     </head>
     <body>              <!dentro da tag body eu passo tudo o que e visivel ao usuario, como texto, imagens, videos, etc>
         <header>
-            <img src ="E:\Users\I3\Documents\CURSOS EAD\DIGITAL INNOVATION ONE\MVR FULL STACK DEVELOPER - Bootcamp\5. Introducao a Criacao de Websites com HTML5 e CSS3\Estrutura do Site/foto rosto.jpg" alt="Foto do crachá">  <!add foto de cabeçalho>
+            <img src ="E:\Users\I3\Documents\CURSOS EAD\DIGITAL INNOVATION ONE\MVR FULL STACK DEVELOPER - Bootcamp\5. Introducao a Criacao de Websites com HTML5 e CSS3\Estrutura do Site/foto rosto.jpg" alt="Foto do crachá" class="foto_minha">  <!add foto de cabeçalho>
             <h1 id="title">ROBERTO JUNIOR</h1>         <! add o titulo>
        </header>
        <section>  <!vai representar a lista de posts<
@@ -15,12 +15,12 @@
                <h2 class="subtitle">Posts</h2>
           </header>
            
-        <article>   <!aqui entra o conteudo em si>
+        <article class="post">   <!aqui entra o conteudo em si>
             <header>
                 <h3 class="post_title">Post #1</h3>
-                <img src="E:\Users\I3\Documents\CURSOS EAD\DIGITAL INNOVATION ONE\MVR FULL STACK DEVELOPER - Bootcamp\5. Introducao a Criacao de Websites com HTML5 e CSS3\Estrutura do Site/WhatsApp_Image_2021-11-17_at_10.38.46_AM2021111713111820211117140513.jpg" alt="foto2">
+                <img src="E:\Users\I3\Documents\CURSOS EAD\DIGITAL INNOVATION ONE\MVR FULL STACK DEVELOPER - Bootcamp\5. Introducao a Criacao de Websites com HTML5 e CSS3\Estrutura do Site/WhatsApp_Image_2021-11-17_at_10.38.46_AM2021111713111820211117140513.jpg" alt="foto2" class="post_image">
             </header>
-            <p> 
+            <p class="post_content"> 
                 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                 O email pode ser acessado clicando <a href="mailto: roberto.junior1202@gmail.com">aqui</a>. <!modelo para add um link>
                 Você pode ligar para mim nesse <a href="tel:(44)9 9996 -4948">telefone</a>.  <!modelo para add um telefone>
@@ -38,7 +38,7 @@
         <header>
             Lista em Horizontal
         </header>
-        <ul>
+        <ul class="contact_list_horizontal">
             <li> 
                 <a href="mailto: roberto.junior1202@gmail.com" target="_blank">E-mail</a>
                 <a href="https://www.linkedin.com/in/roberto-j%C3%BAnior-6267b2193/" target="_blank">LinkedIn</a>
@@ -47,7 +47,7 @@
         </ul>
         <header>
             Lista em Vertical
-            <ul>
+            <ul class="contact_list_vertical">
                 <li>
                     <a href="mailto: roberto.junior1202@gmail.com" target="_blank">E-mail</a> 
                 </li>
