@@ -1,0 +1,1 @@
+git checkout -b "nome da branch"  //cria uma nova branch, com o nome que eu passar dentro das aspas
