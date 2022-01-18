@@ -1,1 +1,1 @@
-Curso de Introdução ao JavaScript
+Curso de Introdução ao JavaScript.
