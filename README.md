@@ -1,7 +1,7 @@
-# MRV-Fullstack-Developer-Bootcamp da Digital Innovation One
+## MRV-Fullstack-Developer-Bootcamp da Digital Innovation One
 Descrição: Este repositório é o backup de todo o curso e de todas as anotações realizadas no Bootcamp MRV Fullstack Developer, do site Digital Innovation One.
 
-## SUMÁRIO DE CURSOS:
+### SUMÁRIO DE CURSOS:
 - 1.Lógica de Programação Essencial
 - 2.Aprenda o que são Estruturas de Dados e Algoritmos
 - 3.Introdução ao Git e GitHub
